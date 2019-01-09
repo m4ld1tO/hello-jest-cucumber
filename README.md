@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Blog reference: https://codeburst.io/react-behavior-driven-development-bdd-535afd364e5f
+
 ## Available Scripts
 
 In the project directory, you can run:
